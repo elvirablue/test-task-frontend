@@ -1,1 +1,14 @@
-{}
+{
+  "Chip": {
+    "description": "Auto imported from components/chip.vue"
+  },
+  "Item": {
+    "description": "Auto imported from components/item.vue"
+  },
+  "MainList": {
+    "description": "Auto imported from components/main-list.vue"
+  },
+  "SelectedList": {
+    "description": "Auto imported from components/selected-list.vue"
+  }
+}
